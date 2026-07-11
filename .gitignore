@@ -1,0 +1,39 @@
+# Dependencies
+/node_modules
+/jspm_packages
+
+# React, Vue, Vite, Next.js
+/dist
+/.next
+/out
+/build
+
+# Common for Jekyll, Hugo, and static generators
+/_site
+/public/build
+.sass-cache
+.cache
+
+# Environment & Secrets
+.env
+.env.*
+!.env.example
+*.local
+
+# OS Generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor / IDE 
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-*
+
+/repotools
