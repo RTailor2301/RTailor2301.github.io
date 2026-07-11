@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+:root {
+  --purple: #6b46c1;
+  --purple-dark: #553c9a;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  line-height: 1.6;
+  color: #1a1a1a;
+  background: #fafafa;
+}
