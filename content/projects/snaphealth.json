@@ -1,0 +1,12 @@
+{
+    "slug": "snaphealth",
+    "title": "SnapHealth",
+    "summary": "AI-powered health literacy and traige tool",
+    "description": "PLACEHOLDER",
+    "tags": ["React", "FastAPI", "Pydantic", "Claude API", "Vercel", "Render"],
+    "date": "2026",
+    "links": {
+      "github": "https://github.com/RTailor2301/RTailor2301.github.io",
+      "demo": "https://snaphealth.vercel.app/"
+    }
+}

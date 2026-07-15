@@ -1,0 +1,11 @@
+{
+    "slug": "forge",
+    "title": "Forge",
+    "summary": "Multi-Agent C Code Auditor",
+    "description": "Four agents: Recon for parsing into AST, Analysis that runs cppcheck and cling-tidy that, Patch which writes LLM-generated diff patches, and Validation which applies the diff.\nCompiled at the end with sanitizers in a Docker sandbox. Each pass knows the information from previous agents in a shared state. Prevented infinite LLM cycle with a 3-loop limit, then escalate to the user with known information.",
+    "tags": ["Python", "LangGraph", "Claude API", "Docker", "Streamlit", "Agentic Systems", "Shared State Mangement"],
+    "date": "2026",
+    "links": {
+      "github": "https://github.com/SaaketK/Forge"
+    }
+}

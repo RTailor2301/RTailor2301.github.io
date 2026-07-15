@@ -1,0 +1,11 @@
+{
+    "slug": "bl-interpreter",
+    "title": "Basic Perl-Like Language Interpreter",
+    "summary": "Lexical analyzer, recursive descent parser, and interpreter for the basic Perl-like language",
+    "description": "Developed and implemented a tree-walk interpreter for the basic Perl-like programming language from scratch. Built a lexer analyzer for tokenization of source code and a recursive-descent parser to generate ASTs.",
+    "tags": ["Tokenization", "Recursive Descent Parsing", "Symbol Tables", "Error Handling", "Expression Evaluation", "AST Tracing"],
+    "date": "2025",
+    "links": {
+      "github": "https://github.com/RTailor2301/Basic-Perl-Like-Language-Interpreter"
+    }
+}

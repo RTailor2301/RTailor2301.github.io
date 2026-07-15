@@ -28,8 +28,14 @@ export function getItem(collection: Collection, slug: string): ContentItem | und
   return getItems(collection).find((item) => item.slug === slug)
 }
 
-export const collections: { id: Collection; label: string }[] = [
+export type CollectionMeta = {
+  id: Collection
+  label: string
+  comingSoon?: boolean
+}
+
+export const collections: CollectionMeta[] = [
   { id: 'projects', label: 'Projects' },
   { id: 'research', label: 'Research' },
-  { id: 'games', label: 'Games' },
+  { id: 'games', label: 'Games', comingSoon: true },
 ]

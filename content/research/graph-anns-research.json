@@ -1,0 +1,11 @@
+{
+    "slug": "graph-anns-research",
+    "title": "Graph-Based Approximate Nearest-Neighbor Search Algorithm Benchmarking and Analysis",
+    "summary": "Profiled Microsoft DiskANN/Vamana and Meta FAISS algorithms on Intel AMX hardware to identify performance bottlenecks",
+    "description": "PLACEHOLDER",
+    "tags": ["AI", "Algorithms", "Hardware Acceleration", "Performance Profiling", "C++", "High-Performance Computing"],
+    "date": "Summer 2026",
+    "links": {
+      "pdf": "https://example.com/paper.pdf"
+    }
+  }

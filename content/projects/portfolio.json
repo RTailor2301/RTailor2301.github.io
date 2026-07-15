@@ -1,11 +1,11 @@
 {
     "slug": "portfolio",
     "title": "Personal Portfolio",
-    "summary": "Standard and terminal views sharing one content layer",
+    "summary": "Standard and terminal views sharing one content layer - Terminal in progress",
     "description": "Built with React, Vite, and TypeScript. Content lives in JSON files to avoid hard coding into each layer.",
-    "tags": ["React", "TypeScript", "Vite"],
+    "tags": ["React", "TypeScript", "Vite", "Web Development", "Frontend Design"],
     "date": "2026",
     "links": {
       "github": "https://github.com/RTailor2301/RTailor2301.github.io"
     }
-  }
+}

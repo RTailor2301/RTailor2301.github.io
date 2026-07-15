@@ -1,0 +1,11 @@
+{
+    "slug": "research-rag",
+    "title": "Graph-Based ANNS Corpus RAG Pipeline",
+    "summary": "Multi-Agent C Code Auditor",
+    "description": "PLACEHOLDER",
+    "tags": ["RAG Pipeline", "Research", "Model Training", "Model Evaluation", "Groq API"],
+    "date": "2026",
+    "links": {
+      "github": "https://github.com/RTailor2301/RTailor2301.github.io"
+    }
+}
